@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7f0c18d.css",
+    "main.js": "/static/js/main.e671fc3c.js",
+    "static/js/453.a50becb7.chunk.js": "/static/js/453.a50becb7.chunk.js",
+    "static/media/MarkaziText-Medium.ttf": "/static/media/MarkaziText-Medium.295dbb852d4791fce543.ttf",
+    "static/media/MarkaziText-Bold.ttf": "/static/media/MarkaziText-Bold.e185c2678db7b28f6244.ttf",
+    "static/media/MarkaziText-Regular.ttf": "/static/media/MarkaziText-Regular.59b18028893f121133b3.ttf",
+    "index.html": "/index.html",
+    "main.e7f0c18d.css.map": "/static/css/main.e7f0c18d.css.map",
+    "main.e671fc3c.js.map": "/static/js/main.e671fc3c.js.map",
+    "453.a50becb7.chunk.js.map": "/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f0c18d.css",
+    "static/js/main.e671fc3c.js"
+  ]
+}
